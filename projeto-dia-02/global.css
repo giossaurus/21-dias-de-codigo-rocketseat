@@ -29,12 +29,14 @@ h1{
     text-align: center;
     font-weight: 700;
     font-size: 42px;
+    margin-bottom: 8.75rem;
     
 }
 
-p{  margin-top :8.75rem;
+p{  
+    margin-top :8.75rem;
     position: absolute;
-    line-height:2rem;
+    line-height:4rem;
     color: #e1e1e6;
     text-align: center;
     font-weight: 700;
