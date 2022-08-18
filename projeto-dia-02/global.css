@@ -8,12 +8,16 @@
 }
 
 .container {
-    margin: auto;
-    width: 60%;
-    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
 }
 
 h1{
     color: #e1e1e6;
     text-align: center;
+    font-weight: 700;
+    font-size: 42px;
 }
