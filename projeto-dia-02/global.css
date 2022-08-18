@@ -7,6 +7,14 @@
     background: #121214;
 }
 
+body {
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
 .container {
     display: flex;
     justify-content: center;
@@ -16,8 +24,23 @@
 }
 
 h1{
+    position:absolute;
     color: #e1e1e6;
     text-align: center;
     font-weight: 700;
     font-size: 42px;
+    
+}
+
+p{  margin-top :8.75rem;
+    position: absolute;
+    line-height:2rem;
+    color: #e1e1e6;
+    text-align: center;
+    font-weight: 700;
+    font-size: 42px;
+}
+
+strong{
+    color: #9466ff;
 }
