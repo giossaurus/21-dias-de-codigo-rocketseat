@@ -14,14 +14,14 @@ body {
 }
 .btn {
   margin-top: calc(50% + 25px);
-  
   position: relative;
   display: inline-block;
   width: 320px;
   height: 80px;
   font-weight: bold;
   line-height: 60px;
-  text-align: center;
+  text-align: right;
+  text-align-last: center;
   background-color: transparent;
   cursor: pointer;
   text-decoration: none;
